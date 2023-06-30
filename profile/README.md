@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Yepper! 👋
+
+We're a group of students trying to create our first game
 
 <!--
 
